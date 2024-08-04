@@ -1,0 +1,7 @@
+{Clusterinfo:}
+{Groupinfo:}
+{ADM:[:]}
+{Target:[:]}
+{Deviceinfo:[:]}
+{Domains:[]}
+
