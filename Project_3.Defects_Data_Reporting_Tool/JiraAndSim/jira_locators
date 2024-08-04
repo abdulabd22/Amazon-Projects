@@ -1,0 +1,14 @@
+link - https://issues.labcollab.net/issues/?jql=
+//span[contains(text(), 'Amazon Employees')]
+midway signin:
+//input[@id='user_name'] 
+//input[@id='password']
+//input[contains(@value,'Sign in')]
+
+//a[@data-id='basic'] - "Advanced" option link
+//textarea[@id='advanced-search'] - Input SQL area
+YYYY-MM-DD - date format 
+(issuetype = Bug AND created >= 2023-01-01 AND created <= 2023-05-20  AND status in (Closed, Resolved)  AND labels in (GDQ_QS_Detected_AlexaDiscovery) AND labels not in (QS_Detected_Valid, QS_Detected_Invalid))
+
+
+

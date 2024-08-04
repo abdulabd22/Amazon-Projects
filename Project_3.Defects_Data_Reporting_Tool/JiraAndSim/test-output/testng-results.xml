@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-03T20:31:11 IST" name="my triaged report" finished-at="2024-07-03T20:37:29 IST" duration-ms="377835">
+    <groups>
+    </groups>
+    <test started-at="2024-07-03T20:31:11 IST" name="Jira and SIM" finished-at="2024-07-03T20:37:29 IST" duration-ms="377835">
+      <class name="JiraSimProject.JiraTriagedReport">
+        <test-method is-config="true" signature="prerun()[pri:0, instance:JiraSimProject.JiraTriagedReport@51c668e3]" started-at="2024-07-03T20:31:11 IST" name="prerun" finished-at="2024-07-03T20:31:43 IST" duration-ms="31996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerun -->
+        <test-method signature="run_sim()[pri:0, instance:JiraSimProject.JiraTriagedReport@51c668e3]" started-at="2024-07-03T20:31:43 IST" name="run_sim" finished-at="2024-07-03T20:37:16 IST" duration-ms="332809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run_sim -->
+        <test-method signature="run_jira()[pri:0, instance:JiraSimProject.JiraTriagedReport@51c668e3]" started-at="2024-07-03T20:31:43 IST" name="run_jira" finished-at="2024-07-03T20:37:26 IST" duration-ms="342195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run_jira -->
+        <test-method is-config="true" signature="postrun()[pri:0, instance:JiraSimProject.JiraTriagedReport@51c668e3]" started-at="2024-07-03T20:37:26 IST" name="postrun" finished-at="2024-07-03T20:37:29 IST" duration-ms="3609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postrun -->
+      </class> <!-- JiraSimProject.JiraTriagedReport -->
+    </test> <!-- Jira and SIM -->
+  </suite> <!-- my triaged report -->
+</testng-results>

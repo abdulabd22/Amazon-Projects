@@ -1,0 +1,72 @@
+//span[@class='remove-all']
+
+//span[normalize-space()='Add a new filter']
+	
+	//ul[@class='select2-results'] - options
+	//input[@placeholder='Keyword search']
+	
+	//input[@id='dp1707753600962'] - from
+	//input[@id='dp1707753600963'] - to
+	//button[@data-name='add-search-filter-button'] - add
+	
+	Create date
+	
+	Tags - //input[@placeholder='Enter full text']  - //button[@class='btn add-to-list']
+	//input[@value='OR'] , //input[@value='AND']
+	
+	
+	
+	Actual completion date
+Actual start date
+Affects
+Archived
+Assignee
+Backlog item type
+Blocked
+Blocked Reason
+Commented On By
+Comments
+Create date
+Custom Field
+Deduplicator
+Description
+Duplicate of
+Estimated completion date
+Estimated start date
+Folder
+Has subtasks
+Id
+Is
+Is in sprint
+Is ranked
+Is subtask
+Keyword
+Label
+Last comment date
+Last updated date
+Mentions
+Minimum Severity
+Need by date
+Next Step Action
+Next Step Owner
+Priority
+Rank
+Requester
+Resolved by
+Resolved date
+Root Cause
+Severity
+Status
+Submitter
+Subtasks of
+Tags
+Ticket Assigned Group
+Ticket Category
+Ticket Item
+Ticket Type
+Title
+Watchers
+
+
+//input[@name='link' and @value='RELATIVE']
+//div[@class='start-date']//option[@value='past'] - past 15 days
